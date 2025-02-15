@@ -1,4 +1,3 @@
-// ملف: counter_height_cubit.dart
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class CounterHeightCubit extends Cubit<double> {
